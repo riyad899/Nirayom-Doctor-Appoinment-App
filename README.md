@@ -20,7 +20,6 @@ Nirayom - Doctor Appointment App is a user-friendly mobile application designed 
 ## Installation
 
 Follow these steps to run Nirayom on your local machine:
-
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/your-username/Nirayom-Doctor-Appointment-App.git
