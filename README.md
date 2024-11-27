@@ -13,10 +13,9 @@ Nirayom - Doctor Appointment App is a user-friendly mobile application designed 
 
 ## Technologies Used
 
-- **Frontend**: [Specify the framework or language, e.g., React Native/Flutter]
-- **Backend**: [Specify the backend technology, e.g., Node.js/Django]
-- **Database**: [Specify the database used, e.g., MySQL/PostgreSQL]
-- **API Integration**: [Mention any APIs used, e.g., healthcare APIs, payment gateway APIs]
+- **Frontend**: [Html,Css,Javascript]
+- **Backend**: [PHP]
+- **Database**: [MySQL]
 
 ## Installation
 
